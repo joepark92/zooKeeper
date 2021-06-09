@@ -4,3 +4,5 @@ bin/zooKeeper/com/mammals/Gorilla.class
 bin/zooKeeper/com/mammals/Mammal.class
 .classpath
 .project
+bin/BatTest.class
+bin/zooKeeper/com/mammals/Bat.class

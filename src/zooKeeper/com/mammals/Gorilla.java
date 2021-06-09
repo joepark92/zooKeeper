@@ -1,6 +1,6 @@
 package zooKeeper.com.mammals;
 
-public class Gorilla extends Mammal{
+public class Gorilla extends Mammal {
 	
 	public void throwSomething() {
 		System.out.println("Gorilla uses throw! -5 Energy");
