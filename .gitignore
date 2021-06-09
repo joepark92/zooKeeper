@@ -1,0 +1,6 @@
+.settings/org.eclipse.jdt.core.prefs
+bin/GorillaTest.class
+bin/zooKeeper/com/mammals/Gorilla.class
+bin/zooKeeper/com/mammals/Mammal.class
+.classpath
+.project
